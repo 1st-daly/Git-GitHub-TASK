@@ -27,7 +27,7 @@ a: 1900 probably, because I love the lifestyle at that time.
 a: A hardworking student.
 
 - Where do you see yourself in five years?
-a: Hopefully working in the tech industry field.
+a: Hopefully having a job in the tech field.
 
 - How many languages do you speak? and what are they?
 a: I speak two languages, Arabic and English.
